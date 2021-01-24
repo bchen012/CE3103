@@ -1,0 +1,2 @@
+void helloprint();
+int counter();
